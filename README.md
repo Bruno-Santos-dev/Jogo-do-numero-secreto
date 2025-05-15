@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2> Sobre</h2>
-<p>Projeto realizado com conhecimentos adquiridos no curso da aluar, onde o objetivo principal, consiste em advinhar o numero secreto com memos tentativas possiveis</p>
+<p>Projeto realizado com conhecimentos adquiridos no curso da alura, onde o objetivo principal, consiste em advinhar o numero secreto com memos tentativas possiveis</p>
 
 ## Tecnologias
 <div>
